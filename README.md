@@ -10,3 +10,5 @@
 安装成功截图：
 
 ![image-20240915092326855](README.assets/image-20240915092326855.png)
+
+![image-20240915095254502](README.assets/image-20240915095254502.png)
